@@ -1,0 +1,8 @@
+C:\FIS\Csharp\Console_APP_Day2\Console_APP_Day2\obj\Debug\Console_APP_Day2.csproj.AssemblyReference.cache
+C:\FIS\Csharp\Console_APP_Day2\Console_APP_Day2\obj\Debug\Console_APP_Day2.csproj.SuggestedBindingRedirects.cache
+C:\FIS\Csharp\Console_APP_Day2\Console_APP_Day2\obj\Debug\Console_APP_Day2.csproj.CoreCompileInputs.cache
+C:\FIS\Csharp\Console_APP_Day2\Console_APP_Day2\bin\Debug\Console_APP_Day2.exe.config
+C:\FIS\Csharp\Console_APP_Day2\Console_APP_Day2\bin\Debug\Console_APP_Day2.exe
+C:\FIS\Csharp\Console_APP_Day2\Console_APP_Day2\bin\Debug\Console_APP_Day2.pdb
+C:\FIS\Csharp\Console_APP_Day2\Console_APP_Day2\obj\Debug\Console_APP_Day2.exe
+C:\FIS\Csharp\Console_APP_Day2\Console_APP_Day2\obj\Debug\Console_APP_Day2.pdb
